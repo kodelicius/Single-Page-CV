@@ -1,0 +1,35 @@
+body{
+    justify-items: center;
+}
+.item{
+    border-style: solid;
+    padding: 5%;
+    padding-right: 10%;
+}
+hr{
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    margin-right: 10%;
+}
+#a1{
+    color: green;
+}
+#a2{
+    color: green;
+}
+#a3{
+    color: green;
+}
+#b3 b{ 
+    color: blue;
+}
+#a4{
+    color: green;
+}
+#b4 b{ 
+    color: blue;
+}
+#a5 {
+    color: green;
+}
